@@ -2,5 +2,6 @@ print("Hello World")
 print("My name is Aakash")
 a= 10
 b= 17
-a = a+b
+c = -4
+a = a+b+c
 print(a)
